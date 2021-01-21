@@ -1,0 +1,16 @@
+{
+  "name": "student-bunker",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "directus start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "^9.0.0-rc.30",
+    "ioredis": "^4.19.4",
+    "pg": "^8.5.1"
+  }
+}
